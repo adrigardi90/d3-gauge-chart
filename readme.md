@@ -1,3 +1,3 @@
 # Gauge Chart
 
-Gauge Chart with React and d3
+Gauge Chart with React, TS and d3.js
